@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e3fd5ff-a27b-4b25-a76a-b313727ba657" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demosite/demosite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/demosite/demosite/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demosite/django-polls/polls/templates/polls/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/demosite/django-polls/polls/templates/polls/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demosite/django-polls/polls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/demosite/django-polls/polls/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demosite/django-polls/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/demosite/django-polls/polls/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
